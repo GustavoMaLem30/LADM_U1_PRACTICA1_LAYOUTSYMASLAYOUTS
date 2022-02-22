@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">¡Bienvenido a RecetaFacil!</string>
+    <string name="title_activity_scrolling">¡HORA DE COCINAR!</string>
+    <string name="large_text">
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="sorbete">Ingredientes:</string>
+    <string name="sorbeteR">
+        -4 limones (más o menos equivalente a 250 ml de zumo de limón).\n
+        -150 gr de azúcar (realmente puedes utilizar el endulzante que\n
+        prefieras y en la cantidad que más te guste, pero así es como\n
+        la preparo yo para que no pierda del todo la acidez del limón,\n
+        pero si lo quieres dulcecito échale 200 gr).\n
+        -500 ml de agua.\n
+        -2 claras de huevo.\n
+        -Una pizca de sal.\n
+        -Si quieres servirlo con cava, hazte con una botella.\n
+    </string>
+
+    <string name="RsorbeteR">
+        1.- Pon en un cazo el agua con el azúcar a fuego medio, y\n
+        cuando hierva deja que se cocine 5 minutos más o hasta que el azúcar\n
+        se haya disuelto. Cuando esté listo el almíbar apártalo del fuego y\n
+        deja que se enfríe.\n
+        2.- Lava muy bien un limón y pela su piel, intenta que apenas tenga\n
+        parte blanca. Resérvala.\n
+        3.- Exprime el zumo de los 4 limones, deberás conseguir alrededor de 250 ml\n
+        de zumo de limón, y cuélalo si lo prefieres.\n
+        4.-En un recipiente mezcla el zumo de los limones con la ralladura \n
+        y el almíbar que has hecho con azúcar y agua y que deberá estar frío. \n
+        Tapa el recipiente y déjalo en el congelador para que quede con texturan \n
+        de sorbete, tardará unas 2 horas. Si se te ha congelado de más puedes \n
+        triturarlo con una batidora.\n
+        5.- Mientras tanto monta las claras. Para ello ponlas en un bol \n
+        con una pizquita de sal y bátelas un poquito con tu propia mano \n
+        hasta que salga espuma. \n
+        6.- Ahora bátelas con una batidora eléctrica hasta obtener una textura\n
+        firme, tanto que si le das la vuelta al bol no caigan.\n
+        7.- Saca el granizado de limón del congelador y ve incorporando\n
+        las claras poco a poco, mezclando con movimientos suaves y envolventes \n
+        con una lengua de cocina hasta que todo quede bien mezclado y esponjoso. \n
+        8.-Deja la mezcla en el congelador hasta el momento de servir, y si quieres\n
+        puedes espolvorear por encima en las copas más ralladura de limón.\n
+        Si está muy duro tan solo tienes que triturarlo con una batidora,\n
+        o servirlo con forma de bola de helado para tomar con cuchara.\n
+        9.- Ya tienes el sorbete de limón listo, si quieres servir sorbete \n
+        de limón al cava mezcla 3 partes de este sorbete con una parte de cava\n
+        y tritura la mezcla.\n
+
+    </string>
+    <string name="salmonR">
+        1.- 500 g. de salmón\n
+        2.- 1 limón\n
+        3.- 1 cucharadita de eneldo\n
+        4.- 1 cucharadita de pimienta\n
+        5.- Alcaparras al gusto\n
+    </string>
+    <string name="RsalmonR">
+        1.- Engrasar un fuente de horno y colocar el salmón con la piel hacia abajo.\n
+        2.- Salpimentar y añadir el eneldo y la ralladura del limón.\n
+        3.-Hornear a 180º C durante 15 minutos.\n
+        4.-Añadir las alcaparras antes de servir.\n
+    </string>
+    <string name="title_activity_fullscreen">¡HORA DE COCINAR!</string>
+    <string name="dummy_button">By Gustavo Marin Lemus</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
